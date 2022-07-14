@@ -6,6 +6,6 @@ This message is brought to you by **[VIRGIL]**.
 
 ## Pic
 
-Hey, guess what... you can also add your account avatar (image). It's enough to right click on your avatar where you see it in a page, go to `view image` and copy the link to it.
+Hey, guess what... you can also add your account avatar (image). It's enough to right click on your avatar where you see it in a page, go to `open image in new tab` and copy the link to it.
 Like this:  
 ![YOUR-LINK](https://avatars.githubusercontent.com/u/103119714?v=4)
